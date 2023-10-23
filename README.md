@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering Major
 --------------------------
 
-I'm a Software Engineering major who has a keen interest in machine learning and data science.
+I'm a Software Engineering major who has a keen interest in both front-end and back-end development.
 
 * 🌍  I'm based in San Jose, CA
 * ✉️  You can contact me at [au.sonny10@gmail.com](mailto:au.sonny10@gmail.com)
-* 🧠  I'm learning Data Visualization
+* 🧠  I'm learning web development.
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I love Stellaris
 
