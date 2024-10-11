@@ -1,7 +1,7 @@
 Hi 👋 My name is Sonny Au
 =========================
 
-I'm a Software Engineering major who has a keen interest in both front-end and back-end development.
+I'm a Software Engineering major who has a keen interest in data science.
 
 *   🌍  I'm based in United States
 *   ✉️  You can contact me at [au.sonny10@gmail.com](mailto:au.sonny10@gmail.com)
